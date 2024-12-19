@@ -1,0 +1,23 @@
+{
+    "status": "File list unchanged, but there are changes in files",
+    "details": {
+        "changed": [
+            "APPMuteList.txt"
+        ],
+        "added": [],
+        "removed": []
+    },
+    "data_new_control": {
+        "path": "C:\\Program Files\\Huawei\\PCManager",
+        "datestamp": "20241219181348",
+        "names_checksum": "a2ef7cf97052b108bf0c371d8dce8fb7",
+        "md5_checksum": "f9583171c9f4fa11dba54039d5001803"
+    },
+    "data_old_control": {
+        "path": "C:\\Program Files\\Huawei\\PCManager",
+        "datestamp": "20241219181430",
+        "names_checksum": "a2ef7cf97052b108bf0c371d8dce8fb7",
+        "md5_checksum": "e2d6b1f688e99f7eeaca9c81197122fa"
+    },
+    "datestamp": "20241219185113"
+}
